@@ -4,6 +4,7 @@ A collection of deep learning studies and tutorials
 ## Tutorials with Tensorflow-keras
 
 **Single-Layer Perceptron**
+* Iris flower - binary classification  → [Open notebook](https://github.com/harishmuh/Deep-Learning_study/blob/main/Single_perceptron_Iris_dataset.ipynb)
 
 **Multi-Layer Perceptron**
 
