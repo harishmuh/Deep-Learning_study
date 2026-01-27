@@ -1,7 +1,7 @@
 # **Deep Learning Tutorials**
 A collection of deep learning studies and tutorials with Tensorflow and Keras.
 
-### **Fully Connected Dense Network (FCDN)**
+### **Fully Connected Network (FCN)**
 
 **Single Layer Perceptron**
 * Iris flower - Binary classification  → [Open notebook](https://github.com/harishmuh/Deep-Learning_study/blob/main/Single_perceptron_Iris_dataset.ipynb)
