@@ -8,7 +8,7 @@ A collection of deep learning studies and tutorials with Tensorflow and Keras.
 * Iris flower - Multiclass classification → [Open notebook](https://github.com/harishmuh/Deep-Learning_study/blob/main/Single_layer_perceptron_Multiclass.ipynb)
 
 **Multi-Layer Perceptron (MLP)**
-* Occupancy detection - Binary classification using MLP → [Open notebook](https://github.com/harishmuh/Deep-Learning_study/blob/main/Multi_layer_perceptron_Binary_Classification_Task.ipynb)
+* Occupancy detection - Binary classification → [Open notebook](https://github.com/harishmuh/Deep-Learning_study/blob/main/Multi_layer_perceptron_Binary_Classification_Task.ipynb)
 
 ### **Convolutional Neural Networks (CNN)**
 * Brain tumor Binary classification → [Open notebook](https://github.com/harishmuh/Deep-Learning_study/blob/main/Brain_Tumor_Binary_classification_CNN_with_TF_keras.ipynb)
