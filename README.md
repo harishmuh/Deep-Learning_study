@@ -1,6 +1,9 @@
 # **Deep Learning Tutorials**
 A collection of deep learning studies and tutorials with Tensorflow and Keras.
 
+### **Introduction**
+* Machine learning with TensorFlow → [Open notebook](https://github.com/harishmuh/Deep-Learning_study/blob/main/ML_model_with_tensorFlow.ipynb)
+
 ### **Fully Connected Network (FCN)**
 
 **Single Layer Perceptron**
