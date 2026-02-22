@@ -8,6 +8,7 @@ This repository provides **FREE deep learning tutorials** for beginners. We will
 
 ### 🔹 **Introduction**
 * Machine learning with TensorFlow → [Open notebook](https://github.com/harishmuh/Deep-Learning_study/blob/main/ML_model_with_tensorFlow.ipynb)
+* TensorFlow starter → [Open notebook](https://github.com/harishmuh/Deep-Learning_study/blob/main/Tensorflow_starter_for_beginner.ipynb)
 
 ### 🔹 **Fully Connected Network (FCN)**
 
