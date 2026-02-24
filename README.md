@@ -16,10 +16,13 @@ This repository provides **FREE deep learning tutorials** for beginners. We will
 * Iris flower - Binary classification  → [Open notebook](https://github.com/harishmuh/Deep-Learning_study/blob/main/Single_perceptron_Iris_dataset.ipynb)
 * Iris flower - Multiclass classification → [Open notebook](https://github.com/harishmuh/Deep-Learning_study/blob/main/Single_layer_perceptron_Multiclass.ipynb)
 
-📌**Multi-Layer Perceptron (MLP)**
+📌 **Multi-Layer Perceptron (MLP)**
 * Iris flower - Multiclass classification → [Open notebook](https://github.com/harishmuh/Deep-Learning_study/blob/main/MLP_iris_flower_dataset.ipynb)
 * Occupancy detection - Binary classification → [Open notebook](https://github.com/harishmuh/Deep-Learning_study/blob/main/Multi_layer_perceptron_Binary_Classification_Task.ipynb)
 * Clothing image - Fashion MNIST - Multiclass classification → [Open notebook](https://github.com/harishmuh/Deep-Learning_study/blob/main/Basic_image_classification_Fashion_Mnist.ipynb)
+
+📌 **Performance optimization**
+* Performance Evaluation of Gradient Descent Optimization Algorithm → [Open notebook](https://github.com/harishmuh/Deep-Learning_study/blob/main/evaluasi_kinerja_batchsize_GD_SMirzaP.ipynb)
 
 ### 🔹 **Convolutional Neural Networks (CNN)**
 * Brain tumor - Binary classification → [Open notebook](https://github.com/harishmuh/Deep-Learning_study/blob/main/Brain_Tumor_Binary_classification_CNN_with_TF_keras.ipynb)
