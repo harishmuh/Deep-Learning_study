@@ -22,7 +22,7 @@ This repository provides **FREE deep learning tutorials** for beginners. We will
 * Fashion image identification (Fashion MNIST) - Multiclass classification → [Open notebook](https://github.com/harishmuh/Deep-Learning_study/blob/main/Basic_image_classification_Fashion_Mnist.ipynb)
 
 📌 **Performance Improvement/optimization**
-* Performance Evaluation of Gradient Descent Optimization Algorithm → [Open notebook](https://github.com/harishmuh/Deep-Learning_study/blob/main/evaluasi_kinerja_batchsize_GD_SMirzaP.ipynb)
+* Performance Evaluation of Gradient Descent Optimization Algorithm (Fashion MNIST dataset) → [Open notebook](https://github.com/harishmuh/Deep-Learning_study/blob/main/evaluasi_kinerja_batchsize_GD_SMirzaP.ipynb)
 * Multiple layers, activation function, and dropout application for fashion image identification (Fashion MNIST) → [Open notebook](https://github.com/harishmuh/Deep-Learning_study/blob/main/evaluasi_kinerja_batchsize_GD_SMirzaP.ipynb)
 
 ### 🔹 **Convolutional Neural Networks (CNN)**
