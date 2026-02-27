@@ -21,7 +21,8 @@ This repository provides **FREE deep learning tutorials** for beginners. We will
 * Occupancy detection - Binary classification (Kurniawan, 2020) → [Open notebook](https://github.com/harishmuh/Deep-Learning_study/blob/main/Multi_layer_perceptron_Binary_Classification_Task.ipynb)
 
 📌 **Multi-Layer Perceptron (MLP) with TensorFlow and Keras**
-* Clothing identification (Fashion-MNIST) - Multiclass classification → [Open notebook](https://github.com/harishmuh/Deep-Learning_study/blob/main/Basic_image_classification_Fashion_Mnist.ipynb)
+* Iris flower - Multiclass classification (Sarno et al., 2023) → [Open notebook](https://github.com/harishmuh/Deep-Learning-Specialization---Andrew-Ng/blob/main/MLP_tensorflow_iris_flower.ipynb)
+* Clothing image identification (Fashion-MNIST) - Multiclass classification → [Open notebook](https://github.com/harishmuh/Deep-Learning_study/blob/main/Basic_image_classification_Fashion_Mnist.ipynb)
 
 📌 **Performance Improvement/optimization with TensofFlow and Keras**
 * Performance Evaluation of Gradient Descent Optimization Algorithm (Fashion-MNIST) (Pahlevi, 2023) → [Open notebook](https://github.com/harishmuh/Deep-Learning_study/blob/main/evaluasi_kinerja_batchsize_GD_SMirzaP.ipynb)
