@@ -13,11 +13,11 @@ This repository provides **FREE deep learning tutorials** for beginners. We will
 ### 🔹 **Fully Connected Network (FCN)**
 
 📌 **Single Layer Perceptron with TensorFlow and Keras**
-* Iris flower - Binary classification  → [Open notebook](https://github.com/harishmuh/Deep-Learning_study/blob/main/Single_perceptron_Iris_dataset.ipynb)
-* Iris flower - Multiclass classification → [Open notebook](https://github.com/harishmuh/Deep-Learning_study/blob/main/Single_layer_perceptron_Multiclass.ipynb)
+* Iris flower identification - Binary classification  → [Open notebook](https://github.com/harishmuh/Deep-Learning_study/blob/main/Single_perceptron_Iris_dataset.ipynb)
+* Iris flower identification - Multiclass classification → [Open notebook](https://github.com/harishmuh/Deep-Learning_study/blob/main/Single_layer_perceptron_Multiclass.ipynb)
 
 📌 **Multi-Layer Perceptron (MLP) with Scikit-Learn**
-* Iris flower - Multiclass classification (Sarno et al., 2023)  → [Open notebook](https://github.com/harishmuh/Deep-Learning_study/blob/main/MLP_iris_flower_dataset.ipynb)
+* Iris flower identification - Multiclass classification (Sarno et al., 2023)  → [Open notebook](https://github.com/harishmuh/Deep-Learning_study/blob/main/MLP_iris_flower_dataset.ipynb)
 * Occupancy detection - Binary classification (Kurniawan, 2020) → [Open notebook](https://github.com/harishmuh/Deep-Learning_study/blob/main/Multi_layer_perceptron_Binary_Classification_Task.ipynb)
 
 📌 **Multi-Layer Perceptron (MLP) with TensorFlow and Keras**
@@ -33,8 +33,8 @@ This repository provides **FREE deep learning tutorials** for beginners. We will
 
 
 📌 **Application**
-* Brain tumor - Binary classification → [Open notebook](https://github.com/harishmuh/Deep-Learning_study/blob/main/Brain_Tumor_Binary_classification_CNN_with_TF_keras.ipynb)
-* Brain tumor - Multiclass classification → [Open notebook](https://github.com/harishmuh/Deep-Learning_study/blob/main/Brain_Tumour_Multiclassclassification_CNN_with_TF_keras.ipynb)
+* Brain tumor identification - Binary classification → [Open notebook](https://github.com/harishmuh/Deep-Learning_study/blob/main/Brain_Tumor_Binary_classification_CNN_with_TF_keras.ipynb)
+* Brain tumor identification - Multiclass classification → [Open notebook](https://github.com/harishmuh/Deep-Learning_study/blob/main/Brain_Tumour_Multiclassclassification_CNN_with_TF_keras.ipynb)
 
 📌 **Classical model**
 * Deep Neural Network (DNN) vs CNN LeNet-5 comparison (Handwritten digits-MNIST) (Pahlevi, 2023) → [Open notebook](https://github.com/harishmuh/Deep-Learning_study/blob/main/dnn_vsLeeNet_Handwritten_digit_MNIST.ipynb)
