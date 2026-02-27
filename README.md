@@ -17,7 +17,7 @@ This repository provides **FREE deep learning tutorials** for beginners. We will
 * Iris flower - Multiclass classification → [Open notebook](https://github.com/harishmuh/Deep-Learning_study/blob/main/Single_layer_perceptron_Multiclass.ipynb)
 
 📌 **Multi-Layer Perceptron (MLP)**
-* Iris flower - Multiclass classification → [Open notebook](https://github.com/harishmuh/Deep-Learning_study/blob/main/MLP_iris_flower_dataset.ipynb)
+* Iris flower - Multiclass classification with Scikit-Learn → [Open notebook](https://github.com/harishmuh/Deep-Learning_study/blob/main/MLP_iris_flower_dataset.ipynb)
 * Occupancy detection - Binary classification → [Open notebook](https://github.com/harishmuh/Deep-Learning_study/blob/main/Multi_layer_perceptron_Binary_Classification_Task.ipynb)
 * Clothing identification (Fashion-MNIST) - Multiclass classification → [Open notebook](https://github.com/harishmuh/Deep-Learning_study/blob/main/Basic_image_classification_Fashion_Mnist.ipynb)
 
