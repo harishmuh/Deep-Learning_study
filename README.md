@@ -41,6 +41,11 @@ This repository provides **FREE deep learning tutorials** for beginners. We will
 📌 **Classical model**
 * Deep Neural Network (DNN) vs CNN LeNet-5 comparison (Handwritten digits-MNIST) (Pahlevi, 2023) → [Open notebook](https://github.com/harishmuh/Deep-Learning_study/blob/main/dnn_vsLeeNet_Handwritten_digit_MNIST.ipynb)
 
+### 🔹 **Recurrent Neural Networks (RNN)**
+
+📌  **LSTM**
+* LSTM - Multiclass classification (Iris flower dataset) (Sarno et al., 2023) → [Open notebook](https://github.com/harishmuh/Deep-Learning_study/blob/main/RNN_LSTM_Iris_flower.ipynb)
+
 ## 📂 Tutorial contents with Pytorch
 * Coming soon ^_^
 
