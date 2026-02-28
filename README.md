@@ -23,6 +23,7 @@ This repository provides **FREE deep learning tutorials** for beginners. We will
 📌 **Multi-Layer Perceptron (MLP) with TensorFlow and Keras**
 * Iris flower - Multiclass classification (Sarno et al., 2023) → [Open notebook](https://github.com/harishmuh/Deep-Learning-Specialization---Andrew-Ng/blob/main/MLP_tensorflow_iris_flower.ipynb)
 * Clothing image identification (Fashion-MNIST) - Multiclass classification → [Open notebook](https://github.com/harishmuh/Deep-Learning_study/blob/main/Basic_image_classification_Fashion_Mnist.ipynb)
+* Handwritten digit (MNIST) multiclass classification (Gani, 2025) → [Open notebook](https://github.com/harishmuh/Deep-Learning_study/blob/main/MLP_Handwritten_digits_dataset.ipynb)
 
 📌 **Performance Improvement/optimization with TensofFlow and Keras**
 * Performance Evaluation of Gradient Descent Optimization Algorithm (Fashion-MNIST) (Pahlevi, 2023) → [Open notebook](https://github.com/harishmuh/Deep-Learning_study/blob/main/evaluasi_kinerja_batchsize_GD_SMirzaP.ipynb)
