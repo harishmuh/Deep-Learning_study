@@ -35,11 +35,14 @@ This repository provides **FREE deep learning tutorials** for beginners. We will
 📌 **Application for tabular data** 
 * CNN application on the tabular data - Multiclass classification (iris flower dataset) (Sarno et al., 2023) → [Open notebook](https://github.com/harishmuh/Deep-Learning_study/blob/main/CNN_tensorflow_iris_flower.ipynb)
 
-📌 **Application for radiology images**
+📌 **Application for image identification**
+* Handwritten digit (MNIST) identification with CNN (Gani, 2025) → [Open notebook](https://github.com/harishmuh/Deep-Learning_study/blob/main/CNN_Handwritten_digit_MNIST.ipynb)
+  
+📌 **Application for radiology image identification**
 * Brain tumor identification - Binary classification → [Open notebook](https://github.com/harishmuh/Deep-Learning_study/blob/main/Brain_Tumor_Binary_classification_CNN_with_TF_keras.ipynb)
 * Brain tumor identification - Multiclass classification → [Open notebook](https://github.com/harishmuh/Deep-Learning_study/blob/main/Brain_Tumour_Multiclassclassification_CNN_with_TF_keras.ipynb)
 
-📌 **Classical model**
+📌 **CNN Classical model**
 * Deep Neural Network (DNN) vs CNN LeNet-5 comparison (Handwritten digits-MNIST) (Pahlevi, 2023) → [Open notebook](https://github.com/harishmuh/Deep-Learning_study/blob/main/dnn_vsLeeNet_Handwritten_digit_MNIST.ipynb)
 
 ### 🔹 **Recurrent Neural Networks (RNN)**
