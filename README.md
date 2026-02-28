@@ -31,8 +31,10 @@ This repository provides **FREE deep learning tutorials** for beginners. We will
 
 ### 🔹 **Convolutional Neural Networks (CNN)**
 
+📌 **Application for tabular data** 
+* CNN application on the tabular data - Multiclass classification (iris flower dataset) (Sarno et al., 2023) → [Open notebook](https://github.com/harishmuh/Deep-Learning_study/blob/main/CNN_tensorflow_iris_flower.ipynb)
 
-📌 **Application**
+📌 **Application for radiology images**
 * Brain tumor identification - Binary classification → [Open notebook](https://github.com/harishmuh/Deep-Learning_study/blob/main/Brain_Tumor_Binary_classification_CNN_with_TF_keras.ipynb)
 * Brain tumor identification - Multiclass classification → [Open notebook](https://github.com/harishmuh/Deep-Learning_study/blob/main/Brain_Tumour_Multiclassclassification_CNN_with_TF_keras.ipynb)
 
