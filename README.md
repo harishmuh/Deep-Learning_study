@@ -37,6 +37,7 @@ This repository provides **FREE deep learning tutorials** for beginners. We will
 
 📌 **Application for image identification**
 * Handwritten digit (MNIST) identification with CNN (Gani, 2025) → [Open notebook](https://github.com/harishmuh/Deep-Learning_study/blob/main/CNN_Handwritten_digit_MNIST.ipynb)
+* Image identification with CNN (CIFAR-10) (Gani, 2025) → [Open notebook](https://github.com/harishmuh/Deep-Learning_study/blob/main/CNN_CIFAR_10.ipynb)
   
 📌 **Application for radiology image identification**
 * Brain tumor identification - Binary classification → [Open notebook](https://github.com/harishmuh/Deep-Learning_study/blob/main/Brain_Tumor_Binary_classification_CNN_with_TF_keras.ipynb)
