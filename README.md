@@ -55,6 +55,10 @@ This repository provides **FREE deep learning tutorials** for beginners. We will
 📌  **LSTM**
 * LSTM - Multiclass classification (Iris flower dataset) (Sarno et al., 2023) → [Open notebook](https://github.com/harishmuh/Deep-Learning_study/blob/main/RNN_LSTM_Iris_flower.ipynb)
 
+### 🔹 **Transfer learning**
+
+* Food Photograph classification - Transfer learning implementation (Pahlevi, 2023) → [Open notebook](https://github.com/harishmuh/Deep-Learning_study/blob/main/food101_transfer_learning.ipynb)
+
 ## 📂 Tutorial contents with Pytorch
 * Coming soon ^_^
 
