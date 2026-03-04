@@ -33,7 +33,7 @@ This repository provides **FREE deep learning tutorials** for beginners. We will
 ### 🔹 **Convolutional Neural Networks (CNN)**
 
 📌 **Application for tabular data** 
-* CNN application on the tabular data - Multiclass classification (iris flower dataset) (Sarno et al., 2023) → [Open notebook](https://github.com/harishmuh/Deep-Learning_study/blob/main/CNN_tensorflow_iris_flower.ipynb)
+* CNN Multiclass classification (iris flower dataset) (Sarno et al., 2023) → [Open notebook](https://github.com/harishmuh/Deep-Learning_study/blob/main/CNN_tensorflow_iris_flower.ipynb)
 
 📌 **Application for image classification**
 * Handwritten digit (MNIST) identification with CNN (Gani, 2025) → [Open notebook](https://github.com/harishmuh/Deep-Learning_study/blob/main/CNN_Handwritten_digit_MNIST.ipynb)
@@ -50,14 +50,15 @@ This repository provides **FREE deep learning tutorials** for beginners. We will
 📌 **CNN Classical model**
 * Deep Neural Network (DNN) vs CNN LeNet-5 comparison (Handwritten digits-MNIST) (Pahlevi, 2023) → [Open notebook](https://github.com/harishmuh/Deep-Learning_study/blob/main/dnn_vsLeeNet_Handwritten_digit_MNIST.ipynb)
 
+📌 **Transfer learning**
+* Food Photograph classification - Transfer learning implementation (Pahlevi, 2023) → [Open notebook](https://github.com/harishmuh/Deep-Learning_study/blob/main/food101_transfer_learning_GPU.ipynb)
+
 ### 🔹 **Recurrent Neural Networks (RNN)**
 
 📌  **LSTM**
 * LSTM - Multiclass classification (Iris flower dataset) (Sarno et al., 2023) → [Open notebook](https://github.com/harishmuh/Deep-Learning_study/blob/main/RNN_LSTM_Iris_flower.ipynb)
 
-### 🔹 **Transfer learning**
 
-* Food Photograph classification - Transfer learning implementation (Pahlevi, 2023) → [Open notebook](https://github.com/harishmuh/Deep-Learning_study/blob/main/food101_transfer_learning.ipynb)
 
 ## 📂 Tutorial contents with Pytorch
 * Coming soon ^_^
