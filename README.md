@@ -61,7 +61,11 @@ This repository provides **FREE deep learning tutorials** for beginners. We will
 
 
 ## 📂 Tutorial contents with Pytorch
-* Coming soon ^_^
+
+### 🔹 **Introduction**
+* Introduction to Pytorch - Iris dataset → [Open notebook](https://github.com/harishmuh/Deep-Learning_study/blob/main/Intro_to_pytorch_iris_dataset.ipynb)
+
+* More tutorial, coming soon ^_^
 
 ---
  📚 References
