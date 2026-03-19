@@ -70,6 +70,9 @@ This repository provides **FREE deep learning tutorials** for beginners. We will
 📌 **Multi-Layer Perceptron (MLP)**
 * Handwritten digit (MNIST) classification with MLP → [Open notebook](https://github.com/harishmuh/Deep-Learning_study/blob/main/01_mnist_classification_using_MLP.ipynb)
 
+📌 **Convolutional Neural Network (CNN)**
+* Handwritten digit (MNIST) classification with CNN → [Open notebook](https://github.com/harishmuh/Deep-Learning_study/blob/main/02_mnist_classification_using_CNN_pytorch.ipynb)
+
 * More tutorials coming soon ^_^
 
 ---
