@@ -62,8 +62,13 @@ This repository provides **FREE deep learning tutorials** for beginners. We will
 
 ## 📂 Tutorial contents with Pytorch
 
-### 🔹 **Introduction**
+### 🔹 **Introduction to Pytorch**
 * Introduction to Pytorch - Iris dataset → [Open notebook](https://github.com/harishmuh/Deep-Learning_study/blob/main/Intro_to_pytorch_iris_dataset.ipynb)
+
+### **Fully connected network**
+
+📌 **Multi-Layer Perceptron (MLP)**
+* Handwritten digit (MNIST) classification with MLP → [Open notebook](https://github.com/harishmuh/Deep-Learning_study/blob/main/01_mnist_classification_using_MLP.ipynb)
 
 * More tutorials coming soon ^_^
 
