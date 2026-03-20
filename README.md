@@ -73,6 +73,9 @@ This repository provides **FREE deep learning tutorials** for beginners. We will
 📌 **Convolutional Neural Network (CNN)**
 * Handwritten digit (MNIST) classification with CNN → [Open notebook](https://github.com/harishmuh/Deep-Learning_study/blob/main/02_mnist_classification_using_CNN_pytorch.ipynb)
 
+📌 **Transfer Learning implementation**
+* 200 Bird images classification - transfer learning implementation with resnet18 → [Open notebook](https://github.com/harishmuh/Deep-Learning_study/blob/main/03_Transfer_Learning_for_Classifying_200_types_of_Bird_with_Pytorch.ipynb)
+
 * More tutorials coming soon ^_^
 
 ---
