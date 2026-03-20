@@ -72,7 +72,7 @@ This repository provides **FREE deep learning tutorials** for beginners. We will
 
 ### 🔹 **Convolutional Neural Networks (CNN)**
 
-📌 **Convolutional Neural Network (CNN)**
+📌 **Application for image classification**
 * Handwritten digit (MNIST) classification with CNN → [Open notebook](https://github.com/harishmuh/Deep-Learning_study/blob/main/02_mnist_classification_using_CNN_pytorch.ipynb)
 
 📌 **Transfer Learning implementation**
