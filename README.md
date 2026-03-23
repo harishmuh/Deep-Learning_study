@@ -80,10 +80,16 @@ This repository provides **FREE deep learning tutorials** for beginners. We will
 * 200 Bird images classification - transfer learning implementation with resnet18 → [Open notebook](https://github.com/harishmuh/Deep-Learning_study/blob/main/03_Transfer_Learning_for_Classifying_200_types_of_Bird_with_Pytorch.ipynb)
 
 
-### 🔹 **Computer vision tasks**
+### 🔹 **Computer vision tasks (with Pytorch)**
 
 📌 **Semantic segmentation**
 * Nuclei segmentation with U-Net → [Open notebook](https://github.com/harishmuh/Deep-Learning_study/blob/main/04_Nucleu_Segmentation_semantic_segmentation_pytorch_pynb.ipynb)
+
+## 📂 Tutorial contents for computer vision tasks
+
+### 🔹 **Basic computer vision task (Non-Deep Learning) and application**
+
+### 🔹 **Deep computer vision tasks**
 
 * More tutorials coming soon ^_^
 
