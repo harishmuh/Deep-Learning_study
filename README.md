@@ -1,4 +1,4 @@
-# 🚀**Deep Learning Tutorials for Beginners**
+# 🚀 **Deep Learning Tutorials for Beginners**
 Hello, deep learning enthusiasts! 👋
 
 This repository provides **FREE deep learning tutorials** for beginners. We will learn some machine learning concepts through hands-on exercises that you can run in Jupyter Notebook or Google Colab.
