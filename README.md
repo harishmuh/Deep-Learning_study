@@ -100,5 +100,6 @@ This repository provides **FREE deep learning tutorials** for beginners. We will
  📚 References
 * Gani, A. (2025). *Pemrograman AI & deep learning*. Penerbit Anak Hebat Indonesia.
 * Kurniawan, D. (2020). *Pengenalan machine learning dengan Python*. PT. Elex Media Komputindo.
+* Pahlevi, S. M. (2024). *Kecerdasan buatan dengan deep computer vision*. PT. Elex Media Komputindo.
 * Pahlevi, S. M. (2023). *Kecerdasan buatan dengan deep learning*. PT. Elex Media Komputindo.
 * Sarno, R., Sabilla, S. I., Malikhah, Purbawa, D. P., & Ardani, M. S. H. (2023). *Machine learning dan deep learning: Konsep dan pemrograman Python*. Penerbit Andi.
