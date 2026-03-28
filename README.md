@@ -90,8 +90,9 @@ This repository provides **FREE deep learning tutorials** for beginners. We will
 ### 🔹 **Basic computer vision tasks (Non-Deep Learning) and applications**
 
 📌 **Image data preprocessing**
-* Image data preprocessing I (Color channel, resizing, flipping, rotating, translating) → [Open notebook](https://github.com/harishmuh/Deep-Learning_study/blob/main/image_data_preprocessing.ipynb) 
-* Image data preprocessing II (Adding geometric shapes, image thresholding methods, image blending) → [Open notebook](https://github.com/harishmuh/Deep-Learning_study/blob/main/image_data_preprocessing_part2.ipynb)
+* Image data preprocessing I: Color channel, resizing, flipping, rotating & translating → [Open notebook](https://github.com/harishmuh/Deep-Learning_study/blob/main/image_data_preprocessing.ipynb) 
+* Image data preprocessing II: Adding geometric shapes, image thresholding methods & image blending → [Open notebook](https://github.com/harishmuh/Deep-Learning_study/blob/main/image_data_preprocessing_part2.ipynb)
+* Image data preprocessing III: Image blurring & sharpening → [Open notebook](https://github.com/harishmuh/Deep-Learning_study/blob/main/image_data_preprocessing_part3.ipynb)
 
 ### 🔹 **Deep computer vision tasks**
 
