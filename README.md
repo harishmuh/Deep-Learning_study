@@ -94,6 +94,7 @@ This repository provides **FREE deep learning tutorials** for beginners. We will
 * Image data preprocessing II: Adding geometric shapes, image thresholding methods & image blending → [Open notebook](https://github.com/harishmuh/Deep-Learning_study/blob/main/image_data_preprocessing_part2.ipynb)
 * Image data preprocessing III: Image blurring & sharpening → [Open notebook](https://github.com/harishmuh/Deep-Learning_study/blob/main/image_data_preprocessing_part3.ipynb)
 * Image data preprocessing IV: Erosion, dilatation, morphological gradient, opening & closing operation → [Open notebook](https://github.com/harishmuh/Deep-Learning_study/blob/main/Image_data_preprocessing_part_4.ipynb)
+* Image data preprocessing V: Top-black hat operations and edge detection (Sobel, Otsu, Laplacian filters and Canny edge) → [Open notebook](https://github.com/harishmuh/Deep-Learning_study/blob/main/Image_data_preprocessing_part_V.ipynb)
 
 ### 🔹 **Deep computer vision tasks**
 
