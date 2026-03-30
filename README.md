@@ -99,6 +99,8 @@ This repository provides **FREE deep learning tutorials** for beginners. We will
 
 ### 🔹 **Deep computer vision tasks**
 
+📌 **Image classification**
+* Image classification with Deep Neural Network - CIFAR10 dataset → [Open notebook](https://github.com/harishmuh/Deep-Learning_study/blob/main/DNN_CIFAR10.ipynb)
 * More tutorials coming soon ^_^
 
 ---
