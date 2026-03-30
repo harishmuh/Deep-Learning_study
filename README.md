@@ -16,6 +16,7 @@ This repository provides **FREE deep learning tutorials** for beginners. We will
 * Iris flower identification - Binary classification  → [Open notebook](https://github.com/harishmuh/Deep-Learning_study/blob/main/Single_perceptron_Iris_dataset.ipynb)
 * Iris flower identification - Multiclass classification → [Open notebook](https://github.com/harishmuh/Deep-Learning_study/blob/main/Single_layer_perceptron_Multiclass.ipynb)
 
+### 🔹 **Deep Neural Network (DNN)**
 📌 **Multi-Layer Perceptron (MLP) with Scikit-Learn**
 * Iris flower identification - Multiclass classification (Sarno et al., 2023)  → [Open notebook](https://github.com/harishmuh/Deep-Learning_study/blob/main/MLP_iris_flower_dataset.ipynb)
 * Occupancy detection - Binary classification (Kurniawan, 2020) → [Open notebook](https://github.com/harishmuh/Deep-Learning_study/blob/main/Multi_layer_perceptron_Binary_Classification_Task.ipynb)
@@ -47,7 +48,7 @@ This repository provides **FREE deep learning tutorials** for beginners. We will
 📌 **Data Preprocessing**
 * Image Preprocessing: Normalization & Augmentation - CIFAR-10 dataset → [Open notebook](https://github.com/harishmuh/Deep-Learning_study/blob/main/Normalisation_%26_Augmentation_CIFAR_10_dataset.ipynb)
 
-📌 **CNN Classical model**
+📌 **CNN & Classical model**
 * Deep Neural Network (DNN) vs CNN LeNet-5 comparison (Handwritten digits-MNIST) (Pahlevi, 2023) → [Open notebook](https://github.com/harishmuh/Deep-Learning_study/blob/main/dnn_vsLeeNet_Handwritten_digit_MNIST.ipynb)
 
 📌 **Transfer learning**
