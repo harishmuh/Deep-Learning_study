@@ -43,7 +43,7 @@ This repository provides **FREE deep learning tutorials** for beginners. We will
   
 📌 **Application for radiology image or disease classification**
 * Brain tumor identification - Binary classification → [Open notebook](https://github.com/harishmuh/Deep-Learning_study/blob/main/Brain_Tumor_Binary_classification_CNN_with_TF_keras.ipynb)
-* Brain tumor identification - Multiclass classification → [Open notebook](https://github.com/harishmuh/Deep-Learning_study/blob/main/Brain_Tumour_Multiclassclassification_CNN_with_TF_keras.ipynb)
+* Brain tumor identification - Multiclass classification → [Open notebook](https://colab.research.google.com/drive/1-_LRCdGW_SNJ2V3SjV8C509LE6jMSSSu?usp=sharing)
 
 📌 **Data Preprocessing**
 * Image Preprocessing: Normalization & Augmentation - CIFAR-10 dataset → [Open notebook](https://github.com/harishmuh/Deep-Learning_study/blob/main/Normalisation_%26_Augmentation_CIFAR_10_dataset.ipynb)
