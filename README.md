@@ -78,7 +78,7 @@ This repository provides **deep learning tutorials** for beginners. We will lear
 * Image classification with CNN - CIFAR10 dataset (Gani, 2025) → [Open notebook](https://github.com/harishmuh/Deep-Learning_study/blob/main/Image_Classification_with_CNN_CIFAR10_pytorch.ipynb)
 
 📌 **Transfer Learning implementation**
-* 200 Bird images classification - transfer learning implementation with resnet18 → [Open notebook](https://github.com/harishmuh/Deep-Learning_study/blob/main/03_Transfer_Learning_for_Classifying_200_types_of_Bird_with_Pytorch.ipynb)
+* 200 Bird images classification - transfer learning implementation with resnet18 → [Open notebook](https://github.com/harishmuh/Deep-Learning_study/blob/main/03_Transfer_Learning_for_Classifying_200_types_of_Bird_with_Pytorch.ipynb), [ver1](https://colab.research.google.com/drive/1pwHjRZHhZvTjw2saWK4xLOHyfUMT758E?usp=sharing)
 
 
 ### 🔹 **Computer vision tasks (with Pytorch)**
