@@ -39,7 +39,7 @@ This repository provides **deep learning tutorials** for beginners. We will lear
 📌 **Application for image classification**
 * Handwritten digit (MNIST) identification with CNN (Gani, 2025) → [Open notebook](https://github.com/harishmuh/Deep-Learning_study/blob/main/CNN_Handwritten_digit_MNIST.ipynb)
 * Image identification with CNN (CIFAR-10 dataset) (Gani, 2025) → [Open notebook](https://github.com/harishmuh/Deep-Learning_study/blob/main/CNN_CIFAR_10.ipynb)
-* Hand gesture (Rocks-Papers-Scissors) image classification with CNN  → [Open notebook](https://github.com/harishmuh/Deep-Learning_study/blob/main/CNN_image_classification_RockPaperScissors.ipynb)
+* Hand gesture (Rocks-Papers-Scissors) image classification with CNN  → [Open notebook](https://github.com/harishmuh/Deep-Learning_study/blob/main/CNN_image_classification_RockPaperScissors.ipynb) | [Nbviewer](https://nbviewer.org/github/harishmuh/Deep-Learning_study/blob/main/CNN_image_classification_RockPaperScissors.ipynb)
   
 📌 **Application for radiology image or disease classification**
 * Brain tumor identification - Binary classification → [Open notebook](https://github.com/harishmuh/Deep-Learning_study/blob/main/Brain_Tumor_Binary_classification_CNN_with_TF_keras.ipynb)
